@@ -9,8 +9,7 @@
     "postinstall": "npm run build"
   },
   "engines": {
-    "node": "12.15.0",
-    "npm": "6.12.4"
+    "node": "12.15.0"
   },
   "keywords": [],
   "author": "",

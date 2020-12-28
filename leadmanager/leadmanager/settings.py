@@ -26,7 +26,7 @@ SECRET_KEY = '1cnzo1%mo&@=y*=za$rhn=tvs-!1jyj1nep$!ttr8h0eea3c1i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lead-manager.herokuapp.com', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['leadmanager-react-django.herokuapp.com', '127.0.0.1:8000']
 
 
 # Application definition
